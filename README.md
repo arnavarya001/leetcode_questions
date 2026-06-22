@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/arnavarya001/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [3110-score-of-a-string](https://github.com/arnavarya001/leetcode_questions/tree/master/3110-score-of-a-string) |
 ## Number Theory
 |  |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/arnavarya001/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/arnavarya001/leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |

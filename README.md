@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
+| [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -107,4 +109,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/arnavarya001/leetcode_questions/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

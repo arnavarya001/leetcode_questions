@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/arnavarya001/leetcode_questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/arnavarya001/leetcode_questions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/arnavarya001/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -131,6 +132,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arnavarya001/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -152,6 +154,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arnavarya001/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/arnavarya001/leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix

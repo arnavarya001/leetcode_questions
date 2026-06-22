@@ -40,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/arnavarya001/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/arnavarya001/leetcode_questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/arnavarya001/leetcode_questions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/arnavarya001/leetcode_questions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arnavarya001/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/arnavarya001/leetcode_questions/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |

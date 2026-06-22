@@ -72,6 +72,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/arnavarya001/leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/arnavarya001/leetcode_questions/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/arnavarya001/leetcode_questions/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |

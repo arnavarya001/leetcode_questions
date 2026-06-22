@@ -14,6 +14,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavarya001/leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -139,6 +140,7 @@
 | [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavarya001/leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Brainteaser
 |  |
 | ------- |

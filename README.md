@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arnavarya001/leetcode_questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
@@ -92,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arnavarya001/leetcode_questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |

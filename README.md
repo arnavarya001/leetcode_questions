@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/arnavarya001/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |

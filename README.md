@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arnavarya001/leetcode_questions/tree/master/0027-remove-element) |
@@ -151,4 +152,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

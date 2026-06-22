@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavarya001/leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -181,6 +183,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |

@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/arnavarya001/leetcode_questions/tree/master/2413-smallest-even-multiple) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/arnavarya001/leetcode_questions/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
@@ -41,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/arnavarya001/leetcode_questions/tree/master/3110-score-of-a-string) |
 ## Number Theory
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arnavarya001/leetcode_questions/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

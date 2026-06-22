@@ -20,6 +20,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/arnavarya001/leetcode_questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/arnavarya001/leetcode_questions/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/arnavarya001/leetcode_questions/tree/master/2651-calculate-delayed-arrival-time) |

@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arnavarya001/leetcode_questions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
@@ -105,6 +107,7 @@
 | [0031-next-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/arnavarya001/leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/arnavarya001/leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |

@@ -16,5 +16,10 @@
 ## Math
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2544-alternating-digit-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/2544-alternating-digit-sum) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->

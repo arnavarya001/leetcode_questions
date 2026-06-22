@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/0031-next-permutation) |
+| [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -130,6 +131,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Brainteaser
@@ -143,5 +145,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

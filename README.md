@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -17,6 +18,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [2706-buy-two-chocolates](https://github.com/arnavarya001/leetcode_questions/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
@@ -76,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/arnavarya001/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/arnavarya001/leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion

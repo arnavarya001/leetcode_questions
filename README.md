@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
@@ -43,6 +44,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
@@ -61,6 +63,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/arnavarya001/leetcode_questions/tree/master/2413-smallest-even-multiple) |
 ## Database
 |  |

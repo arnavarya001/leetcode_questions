@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
@@ -32,6 +33,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -44,6 +46,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/arnavarya001/leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [3110-score-of-a-string](https://github.com/arnavarya001/leetcode_questions/tree/master/3110-score-of-a-string) |
 ## Number Theory
 |  |

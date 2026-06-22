@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
 | [2706-buy-two-chocolates](https://github.com/arnavarya001/leetcode_questions/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -21,5 +22,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->

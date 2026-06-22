@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/arnavarya001/leetcode_questions/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->

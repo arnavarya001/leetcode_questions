@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
 | [2706-buy-two-chocolates](https://github.com/arnavarya001/leetcode_questions/tree/master/2706-buy-two-chocolates) |
 ## Greedy
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/arnavarya001/leetcode_questions/tree/master/0511-game-play-analysis-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

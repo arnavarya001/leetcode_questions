@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

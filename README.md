@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavarya001/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |

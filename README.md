@@ -21,6 +21,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2544-alternating-digit-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/2544-alternating-digit-sum) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/arnavarya001/leetcode_questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |

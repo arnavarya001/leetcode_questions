@@ -27,6 +27,7 @@
 | [1732-find-the-highest-altitude](https://github.com/arnavarya001/leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
 | [2706-buy-two-chocolates](https://github.com/arnavarya001/leetcode_questions/tree/master/2706-buy-two-chocolates) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/arnavarya001/leetcode_questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/arnavarya001/leetcode_questions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/arnavarya001/leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/arnavarya001/leetcode_questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Recursion
 |  |
 | ------- |

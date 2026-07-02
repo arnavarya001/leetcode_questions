@@ -43,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/arnavarya001/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arnavarya001/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/arnavarya001/leetcode_questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/arnavarya001/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/arnavarya001/leetcode_questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arnavarya001/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/arnavarya001/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavarya001/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/arnavarya001/leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
@@ -193,5 +195,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arnavarya001/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/arnavarya001/leetcode_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

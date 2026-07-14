@@ -47,6 +47,7 @@
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/arnavarya001/leetcode_questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/arnavarya001/leetcode_questions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/arnavarya001/leetcode_questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |

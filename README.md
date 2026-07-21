@@ -23,6 +23,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavarya001/leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/arnavarya001/leetcode_questions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/arnavarya001/leetcode_questions/tree/master/1732-find-the-highest-altitude) |

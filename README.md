@@ -29,6 +29,7 @@
 | [1672-richest-customer-wealth](https://github.com/arnavarya001/leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/arnavarya001/leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/1920-build-array-from-permutation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/arnavarya001/leetcode_questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2706-buy-two-chocolates](https://github.com/arnavarya001/leetcode_questions/tree/master/2706-buy-two-chocolates) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/arnavarya001/leetcode_questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
@@ -94,6 +95,7 @@
 | [0344-reverse-string](https://github.com/arnavarya001/leetcode_questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/arnavarya001/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/arnavarya001/leetcode_questions/tree/master/0434-number-of-segments-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/arnavarya001/leetcode_questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/arnavarya001/leetcode_questions/tree/master/3110-score-of-a-string) |
 ## Number Theory
 |  |

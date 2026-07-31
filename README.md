@@ -154,6 +154,7 @@
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/arnavarya001/leetcode_questions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -162,6 +163,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/arnavarya001/leetcode_questions/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
@@ -215,5 +217,18 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/arnavarya001/leetcode_questions/tree/master/1046-last-stone-weight) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

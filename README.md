@@ -152,6 +152,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/arnavarya001/leetcode_questions/tree/master/0901-online-stock-span) |
@@ -226,6 +227,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -239,6 +241,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -247,6 +250,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search

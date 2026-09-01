@@ -72,6 +72,7 @@
 | [2413-smallest-even-multiple](https://github.com/arnavarya001/leetcode_questions/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/arnavarya001/leetcode_questions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/arnavarya001/leetcode_questions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arnavarya001/leetcode_questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |

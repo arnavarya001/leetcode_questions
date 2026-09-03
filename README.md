@@ -239,6 +239,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0965-univalued-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0965-univalued-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,10 +265,12 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->

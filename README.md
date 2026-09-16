@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/arnavarya001/leetcode_questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/arnavarya001/leetcode_questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arnavarya001/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/arnavarya001/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/arnavarya001/leetcode_questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/arnavarya001/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/arnavarya001/leetcode_questions/tree/master/0242-valid-anagram) |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/arnavarya001/leetcode_questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

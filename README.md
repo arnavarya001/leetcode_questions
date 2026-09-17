@@ -242,6 +242,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -251,6 +252,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arnavarya001/leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -261,6 +263,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -274,6 +277,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -300,9 +304,11 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->

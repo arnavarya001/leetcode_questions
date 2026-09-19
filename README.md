@@ -28,6 +28,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavarya001/leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/arnavarya001/leetcode_questions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/arnavarya001/leetcode_questions/tree/master/0242-valid-anagram) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -311,4 +313,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavarya001/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->

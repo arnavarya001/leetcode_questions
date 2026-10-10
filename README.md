@@ -32,6 +32,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/arnavarya001/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/arnavarya001/leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/arnavarya001/leetcode_questions/tree/master/1732-find-the-highest-altitude) |
@@ -72,6 +73,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arnavarya001/leetcode_questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/arnavarya001/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/arnavarya001/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/arnavarya001/leetcode_questions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -227,6 +229,7 @@
 | [0001-two-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/arnavarya001/leetcode_questions/tree/master/0242-valid-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/arnavarya001/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -329,4 +332,5 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/arnavarya001/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

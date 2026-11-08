@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* build(vector<int>& a, int l, int r) {
+    TreeNode* build(vector<int>& a,int l,int r) {
         if(l>r) return nullptr;
         int mid = l+(r-l)/2;
         TreeNode* root = new TreeNode(a[mid]);

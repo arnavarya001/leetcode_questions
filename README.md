@@ -32,6 +32,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavarya001/leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavarya001/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/arnavarya001/leetcode_questions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@
 | [0075-sort-colors](https://github.com/arnavarya001/leetcode_questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/arnavarya001/leetcode_questions/tree/master/0242-valid-anagram) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/arnavarya001/leetcode_questions/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
@@ -159,6 +161,7 @@
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/arnavarya001/leetcode_questions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/arnavarya001/leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/arnavarya001/leetcode_questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Recursion
 |  |
@@ -218,6 +221,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavarya001/leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arnavarya001/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Brainteaser
 |  |
 | ------- |

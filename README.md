@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/arnavarya001/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/0575-distribute-candies) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0867-transpose-matrix) |
@@ -174,6 +175,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavarya001/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/arnavarya001/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/arnavarya001/leetcode_questions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -183,6 +185,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/arnavarya001/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/arnavarya001/leetcode_questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -235,6 +238,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/arnavarya001/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/arnavarya001/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/arnavarya001/leetcode_questions/tree/master/1512-number-of-good-pairs) |

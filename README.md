@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnavarya001/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0575-distribute-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/0575-distribute-candies) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavarya001/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arnavarya001/leetcode_questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/arnavarya001/leetcode_questions/tree/master/0877-stone-game) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arnavarya001/leetcode_questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/arnavarya001/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0575-distribute-candies](https://github.com/arnavarya001/leetcode_questions/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arnavarya001/leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/arnavarya001/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 ## Memoization

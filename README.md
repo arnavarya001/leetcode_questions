@@ -41,6 +41,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arnavarya001/leetcode_questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2706-buy-two-chocolates](https://github.com/arnavarya001/leetcode_questions/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/arnavarya001/leetcode_questions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arnavarya001/leetcode_questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/arnavarya001/leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/arnavarya001/leetcode_questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
